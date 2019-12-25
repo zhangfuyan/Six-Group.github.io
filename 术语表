@@ -1,0 +1,46 @@
+术语表
+
+  E-N                                     	C-N                                     
+  第一部分                                    	                                        
+  index                                   	索引                                      
+  a pull request (PR)                     	拉取请求                                    
+  links                                   	链接                                      
+  git GUIs (graphical user interfaces)    	git GUI（图形用户界面）                         
+  public repositories                     	公共存储库                                   
+  private repositories                    	私人存储库                                   
+  Create a local git repository           	创建本地git存储库                              
+  Navigating the Filesystem               	导航文件系统                                  
+  a git repository in the root of the   folder	文件夹的根目录                                 
+  第二部分                                    	                                        
+  text editor                             	文本编辑器                                   
+  Initial commit                          	初次提交                                    
+  Untracked files:                        	未跟踪的文件：                                 
+  staging environment                     	临时环境                                    
+  index                                   	索引                                      
+  第三部分                                    	                                        
+  the asterisk                            	星号                                      
+  mnelson:myproject mnelson$ git branch   	mnelson:myproject mnelson$ git branch   
+  "asdfadsf" or   "foobar".               	"asdfadsf" or "foobar".                 
+  a bug fix                               	一个错误修复                                  
+  第四部分                                    	                                        
+  mnelson:myproject mnelson$ git push -u   origin master	mnelson:myproject mnelson$ git push -u origin master
+  GitHub username                         	GitHub用户名                               
+  a remote repository                     	远程存储库                                   
+  screenshot                              	屏幕截图                                    
+  第五部分                                    	                                        
+  the PR page                             	PR页                                     
+  Merge pull request                      	合并拉取请求                                  
+  merge conflict                          	合并冲突                                    
+  hash code                               	拼凑代码                                    
+  undoing changes                         	撤消更改                                    
+  hash code number                        	拼凑码编号                                   
+  command to backtrack                    	命令回溯                                    
+  第六部分                                    	                                        
+  remote:                                 	远程：                                     
+  Total 1 (delta 0), reused 0 (delta 0),   pack-reused 0	总计1(增量0)、重用0(增量0)、包重用0                  
+  Unpacking objects:                      	解包对象：                                   
+  view raw                                	视图原始                                    
+  insertion(+)                            	插入(+)                                   
+  git checkout master                     	git 签出主机                                
+  mnelson:myproject mnelson$ git log      	mnelson:myproject mnelson$ git log      
+  the PR feature                          	公关功能                                    
